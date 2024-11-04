@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 20,
   },
   sectionTtitle: {
-    fontSize: 24,
+    fontSize: 28,
     fontWeight: "bold",
   },
   items: {
